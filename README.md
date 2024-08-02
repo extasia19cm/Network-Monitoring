@@ -55,6 +55,6 @@ python main.py
 
 
 # Есть вопросы?
-Если есть вопросы свежитесь со мной:
+Если есть вопросы свяжитесь со мной:
 - Telegram [Перейти](https://t.me/extasia19cm)
 - Discord [Перейти](https://discord.com/users/1111941772780777472)
